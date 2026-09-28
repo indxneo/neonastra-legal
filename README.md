@@ -1,6 +1,6 @@
-# NeonAstra: privacy policy and support
+# Neon Astra: privacy policy and support
 
-The public pages for the NeonAstra iPhone game, served by GitHub Pages:
+The public pages for the Neon Astra iPhone game, served by GitHub Pages:
 
 - Privacy Policy: https://indxneo.github.io/neonastra-legal/privacy/
 - Support: https://indxneo.github.io/neonastra-legal/support/
